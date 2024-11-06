@@ -51,3 +51,4 @@ class Register extends Component
         return view('livewire.auth.register')->extends('layouts.auth');
     }
 }
+# Change 0 on 2024-11-06
